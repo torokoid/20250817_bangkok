@@ -187,7 +187,7 @@ p.note { display: none; }
 <a href="20250817_010.JPG" target="_blank"><img src="20250817_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250817_011.JPG" target="_blank"><img src="20250817_011.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">突然入道部もが湧きたちます</span></h2> 
+<h2><span class="yellow">突然、入道雲が湧きたちます</span></h2> 
 <a href="20250817_012.JPG" target="_blank"><img src="20250817_012.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">あっという間に黒雲、この後土砂降りの雷雨になりました</span></h2> 
